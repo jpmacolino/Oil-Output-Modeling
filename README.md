@@ -1,0 +1,2 @@
+# Oil-Output-Modeling
+A close comparison of three different regions for potential oil development. Here I was tasked with taking proprietary data about three distinct regions and advising on which region would produce the highest ROI. This involved building a logistic regression model and testing the findings against bootstrapped data to ensure significantly accurate results. From this, I was able to make a recommendation on the best region for further oil development. This was project 8 of Practicum by Yandex. 
